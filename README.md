@@ -7,7 +7,8 @@ The goal of this project was to recreate a landing page layout with an emphasis 
 
 ## Live Demo
 
-🔗 [View Live Site](#)
+🔗 [View Live Site]
+(https://meltingwax-19.github.io/awesome-landing-page/)
 
 
 ## Screenshot
